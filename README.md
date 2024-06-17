@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <a href="https://eatenupme.github.io/github-profile-textributions/?bits=432013312,572522496,1006632960,668991488,1015021568,668991488,1015021568,715128832,899678208">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="light.svg" />
+            <img alt="header" src="light.svg" />
+        </picture>
+    </a>
+</p>
